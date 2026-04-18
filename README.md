@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # sharedp
 
 A new Flutter project.
@@ -7,16 +6,6 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Shared Preferences Demo App
 
 A simple Flutter application demonstrating local data storage using `shared_preferences`. This app allows users to store, retrieve, update, and clear basic user information (name, age, login status) locally on their device.
@@ -61,4 +50,3 @@ To get a local copy up and running, follow these simple steps:
 3.  **Save/Update Data:** Click the "Save/Update Data" button to store the current input values. This will overwrite any existing data for the same keys.
 4.  **Load Data:** Click the "Load Data" button to explicitly reload data from `shared_preferences` and update the displayed values. (This happens automatically on app start and after saving/clearing).
 5.  **Clear All Data:** Click "Clear All Data" to remove all user-specific data stored by this application.
->>>>>>> 1e9d74485467ce3f16e516bff6475adf7a38d577
